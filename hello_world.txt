@@ -1,0 +1,35 @@
+Basic Git Commands
+touch -  to create new file
+cd - to move into that file
+
+1. created
+2. staging area
+3. commit
+4. modified
+
+--------Red color ---------
+
+it means the file which we
+have created is not inside 
+the staging area
+
+========Working directory====
+
+ 
+git add <file Name>/*/. - to add file 
+into the staging area
+
+git status - to check the status of
+the newly created file
+
+--------Green color -------
+
+it means the file which we have created
+previously is now in the staging area
+
+=========Staging Area=======
+
+git commit - to commint file 
+
+git log - to check how many commits
+have been made
