@@ -1,0 +1,12 @@
+* git config --global user.name <"Your Name">
+* git config --global user.email <"Your Email">
+* shh-keygen -t rsa -b 4096 -C <"Your Email">
+* tail <path to id_rsa.pub> :- Add this to key to github account
+
+* touch :- to create a file/folder
+* git init :- to initialize the .git folder
+* git add . :- to add files in staging area
+* git commit -m "Message" :- to commit changes
+* git status :- just to see the working tree clean
+* git remote add origin <ssh url.git>
+* git push origin master 
